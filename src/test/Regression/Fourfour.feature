@@ -1,13 +1,12 @@
 Feature: This is one one
-Scenario: This is scenarion is only for cars
+Scenario: This is scenarion is only for Buildings
 Given user is on Ola UI
 When user enters valid credentials
 Then user choose distination and pickup address
 And  user is able to see related results
 
-Scenario: This is scenarion is only for cars2
+Scenario: This is scenarion is only for Buildings2
 Given user is on Ola UI
 When user enters valid credentials
 Then user choose distination and pickup address
 And  user is able to see related results
-
